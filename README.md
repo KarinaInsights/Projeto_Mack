@@ -97,6 +97,6 @@ Acesse o **Adafruit IO** para visualizar os dados e receber alertas em tempo rea
 - 📄 [Arduino IDE](https://docs.arduino.cc/software/ide/)
 - 🛠️ [Fritzing](https://fritzing.org/)
 - 📘 [MQTT Protocolo](https://aws.amazon.com/pt/what-is/mqtt/)
-- 🎥 [YouTube - Projetos IoT](https://www.youtube.com/watch?v=01j5eJVQ6os&list=PLqseg0xtT4cFM_cj9qFOchPr6M3wZNHdB)
+- 🎥 [YouTube - Projeto utilizando C](https://www.youtube.com/watch?v=01j5eJVQ6os&list=PLqseg0xtT4cFM_cj9qFOchPr6M3wZNHdB)
 
 ---
