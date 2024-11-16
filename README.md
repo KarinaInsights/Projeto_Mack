@@ -8,14 +8,14 @@
 
 ## **📂 Código e Documentação**
 
-📜 O arquivo principal é o [`codigofonte.ino`](src/codigofonte.ino), desenvolvido em **Arduino IDE**, e contém:
+📜 O arquivo principal é o codigofonte.ino, desenvolvido em **Arduino IDE**, e contém:
 - 📡 Configuração da conexão Wi-Fi.
 - 📦 Integração com o protocolo MQTT.
 - 📊 Funções de leitura do sensor e emissão de alertas via buzzer.
 
 > 🛠️ **Dica:** Antes de rodar o código, edite as credenciais de Wi-Fi e do Adafruit IO no cabeçalho do arquivo.
 >
-> 📄 **Artigo Completo:** A documentação detalhada deste projeto está disponível no arquivo PDF [`artigo_documentacao.pdf`](artigo_documentacao.pdf). Este artigo inclui todas as etapas do desenvolvimento, diagramas, e análises dos resultados.
+> 📄 **Artigo Completo:** A documentação detalhada deste projeto está disponível no arquivo PDF artigo_documentacao.pdf Este artigo inclui todas as etapas do desenvolvimento, diagramas, e análises dos resultados.
 
 ---
 
@@ -29,7 +29,7 @@
 - 🔌 **Fios Jumper:** Conectam os componentes de forma prática e segura.
 - 🔗 **Cabo Micro USB:** Alimenta a placa e permite programação.
 
-> 💡 **Nota:** O esquema do circuito está disponível no arquivo [`diagrama_circuito.fzz`](diagrama_circuito.fzz) em imgs.
+> 💡 **Nota:** O esquema do circuito está disponível no arquivo em imgs.
 
 ---
 
@@ -68,7 +68,7 @@ git clone https://github.com/KarinaInsights/Projeto_Mack.git
   ```
 
 ### **3️⃣ Monte o Circuito**
-Siga o esquema no arquivo [`diagrama_circuito.fzz`](diagrama_circuito.fzz) pasta `imgs`.
+Siga o esquema no arquivo diagrama na pasta `imgs`.
 
 ### **4️⃣ Faça o Upload do Código**
 Conecte o ESP8266 ao computador via cabo USB e envie o código pela Arduino IDE.
