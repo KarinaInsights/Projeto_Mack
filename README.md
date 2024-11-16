@@ -68,7 +68,7 @@ git clone https://github.com/KarinaInsights/Projeto_Mack.git
   ```
 
 ### **3️⃣ Monte o Circuito**
-Siga o esquema no arquivo diagrama na pasta `imgs`.
+Siga o esquema que está no arquivo pdf (figuras 7,8,9 e 10).
 
 ### **4️⃣ Faça o Upload do Código**
 Conecte o ESP8266 ao computador via cabo USB e envie o código pela Arduino IDE.
@@ -87,7 +87,7 @@ Acesse o **Adafruit IO** para visualizar os dados e receber alertas em tempo rea
 | Buzzer Ativo       | Emite alertas sonoros          |
 | Protoboard         | Facilita conexões              |
 
-> 📸 **Imagens do Protótipo:** Veja as fotos na pasta `imgs/`.
+> 📸 **Imagens Montado e ligado:** Acesse o pdf, figura 11 ilustra o sistema montado e ligado
 
 ---
 
