@@ -15,7 +15,7 @@
 
 > 🛠️ **Dica:** Antes de rodar o código, edite as credenciais de Wi-Fi e do Adafruit IO no cabeçalho do arquivo.
 >
-> 📄 **Artigo Completo:** A documentação detalhada deste projeto está disponível no arquivo PDF artigo_documentacao.pdf Este artigo inclui todas as etapas do desenvolvimento, diagramas, e análises dos resultados.
+> 📄 **Artigo Completo:** A documentação detalhada deste projeto está disponível no arquivo PDF Temperatura e Umidade.pdf Este artigo inclui todas as etapas do desenvolvimento, diagramas, e análises dos resultados.
 
 ---
 
