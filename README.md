@@ -29,7 +29,6 @@
 - 🔌 **Fios Jumper:** Conectam os componentes de forma prática e segura.
 - 🔗 **Cabo Micro USB:** Alimenta a placa e permite programação.
 
-> 💡 **Nota:** O esquema do circuito está disponível no arquivo em imgs.
 
 ---
 
