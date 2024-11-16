@@ -1,6 +1,6 @@
 # Projeto_Mack
 
-# **🌡️ Sistema de Monitoramento de Temperatura e Umidade em Fábricas**
+# **🌡️ Sistema de monitoramento de temperatura e umidade em fábricas**
 
 🔧 Este projeto implementa um sistema de **IoT** para monitoramento ambiental em fábricas e ambientes industriais. Ele mede **temperatura** e **umidade** em tempo real, utilizando a placa **ESP8266**, o sensor **DHT11**, e um buzzer para alertas locais. Os dados são enviados para a plataforma **Adafruit IO** por meio do protocolo **MQTT**, permitindo visualização remota e controle inteligente.
 
